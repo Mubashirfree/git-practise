@@ -1,0 +1,3 @@
+green symbolize environment
+red symbolize blood
+yellow symbolize nothing
