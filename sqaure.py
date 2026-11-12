@@ -1,2 +1,3 @@
 def square(a):
-	return a**2
+	print(f"Square is  {a**2}")
+
